@@ -34,7 +34,7 @@ score = int(model.predict([[hours]]))
 if score > 100:
     score = 100
 
-st.write(f'Predicted Score: {score} Marks ')
+st.write(f'Predicted Score: {score} Marks if he studies {hours} hours')
 
 
 # Perform EDA
