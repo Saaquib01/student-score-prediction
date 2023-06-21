@@ -23,7 +23,7 @@ Place the CSV file in the Dataset directory.
     streamlit run app.py
 
 6. Open the App in your Web Browser:
-The app will open automatically in a new tab. If not, you can access it by visiting http://localhost:8501 in your web browser.
+The app will open automatically in a new tab. If not, you can access it by visiting [http://localhost:8501](https://huggingface.co/spaces/Saaquib/student-score) in your web browser.
 
 7.  Use the App:
 Explore the EDA section to view summary statistics and a scatter plot of the dataset, providing insights into the relationship between study hours and scores.
